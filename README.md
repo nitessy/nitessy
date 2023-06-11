@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitesh Kumar Yadav
 - 👀 I’m into Web Development
-- 🌱 I’m currently learning it and some other professional programming languages
+- 🌱 I’m currently learning it and some other programming languages
 
 - 📫 Feel free to reach me through:
 - Instagram: https://instagram.com/nitessy?igshid=OTk0YzhjMDVlZA==
